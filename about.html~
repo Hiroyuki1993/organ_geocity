@@ -1,0 +1,103 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+<title>東京大学オルガン同好会:About Us</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Style-Type" content="utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+</head>
+
+<body>
+
+<table class="bodytable">
+<tr>
+<td class="bodytd">
+
+<table class="maintable">
+<tr>
+<td colspan="2">
+	<a href="./"><img src="./image/logo1.gif" width="774" height="57" border="0" alt="東京大学オルガン同好会" /></a>
+</td>
+</tr>
+<tr>
+<td class="listtd">
+	<table class="listtable">
+	<tr>
+	<td class="tmenu"><a href="./" style="color:white" class="amenu">Top</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./about.html" style="color:white" class="amenu">About Us</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="http://bbs.83net.jp/?strangers" style="color:white" class="amenu">掲示板兼活動予定</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./concert.html" style="color:white" class="amenu">Concert</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./gallery.html" style="color:white" class="amenu">Gallery</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./access.html" style="color:white" class="amenu">Access</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./link.html" style="color:white" class="amenu">Link</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./contact.html" style="color:white" class="amenu">Contact Us</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./siyou.html" style="color:white;font-size:10pt" class="amenu">900番教室のオルガンの仕様</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="http://twitter.com/organ900/" style="color:#80FF00" class="amenu" target="_blank">Twitter</a></td>
+	</tr>
+	</table>
+</td>
+<td class="maintd">
+	<table style="margin-top:5px;color:white">
+	<tr>
+	<td>
+	<p><b style="font-size:12pt">■About Us<br />サークル紹介</b><br /></p>
+
+	<p style="font-size:10pt;line-height:16px;padding:14px;border:1px dashed #ffffff">
+	　東大駒場キャンパス900番教室、その２階にはパイプオルガンが設置されています。２段の手鍵盤と足鍵盤を有し、総ストップ数は12、パイプオルガンとしては小型ながらも、様々な表情の音色を奏で、聴く人を楽しませてくれます。やはり、「楽器の女王」の呼称に愧じないスケールの大きさを持っていると言えるでしょう。そして、そのオルガンを弾くサークル、それが私たち東京大学オルガン同好会です。<br />
+	　オルガン同好会発足のきっかけは、「パイプオルガンを日常的に弾きたい」という学生の要望でした。幸いにして、オルガンを管理しているオルガン委員会の先生方にも「東大にパイプオルガンという素晴らしい楽器が折角あるのに、それを弾くサークルがないのは勿体無い」という意見があったため、即座にサークルの設立に理解が得られました。そして、まもなくオルガン使用の許可が頂けるようになり、活動が開始しました。これが当サークルの始まりです。なお、設立年月日は、不明です。<br />
+	　現在、我々は平日の夜や休日を中心に、一ヶ月におよそ10回、不定期に活動を行っています。活動内容は個々人の自由。鍵盤に触って音が出るのを楽しむ者、「パッサカリアとフーガハ短調BWV582」を弾くことを目指して鍛錬する者、自分では弾かずに専ら聴くことを楽しむ者、他の人と話すために来る者等など、それぞれが、それぞれの技術と動機、意欲に応じ、それぞれなりのやり方で楽しんでいます。なお、近年では、一年に数回、有志を募って演奏会を開くことがあります。<br />
+	また、オルガン委員会から無料で使用許可を頂いているため、定期的な必要経費はなく、部費を徴収することはありません。そのため、事務的な方法によってメンバーを決定したことはなく、かつ、ごく稀に顔を出すのみの者も多いため、実際に何人いるのかは、謎です。ただ、思い当たるだけでも、大学一年生から社会人、日本文学から医学、埼玉県越谷市から宇宙空間まで、幅広い範囲をカバーする多種多様な人々がいます。個性溢れる人物たちが好き勝手に楽しんでいるというのも、このサークルの魅力の一つでしょう。以下に、その中の何人かの自己紹介を掲載しました。ほんのごく一部ではありますが、御照覧下さい。<br /><br />
+	　時は放課後、所は900番、そこに人知れず寄り集う者達。闇に紛れて出没し、意に任せて跳梁す、これぞ我らが東京大学オルガン同好会。<br />
+	――決して秘密結社ではありません。寧ろ飛び入り参加大歓迎の開放度。900番教室にあるオルガンを自由に味わい、オルガンのある900番教室を気儘に楽しむ。この独特の空間を、あなたも味わってみませんか。</p>
+
+	</td>
+	</tr>
+	</table>
+	<table style="margin-top:5px;color:white">
+	<tr>
+	<td>
+	<p><b style="font-size:12pt">■About Us<br />ビラ集</b><br /></p>
+
+	<p style="font-size:10pt;line-height:16px;padding:14px;border:1px dashed #ffffff">
+過去に新歓で配ったビラです。<br>興味のある方はご覧ください。<br><br>
+<a href="./image/poster_free.jpg" target="_blank">ビラ１</a><br>
+<a href="./image/2012organ.jpg" target="_blank">ビラ２</a><br>
+<a href="./image/shinkan01.jpg" target="_blank">ビラ３</a><br>
+<a href="./image/shinkan02.jpg" target="_blank">ビラ４</a><br>
+<a href="./image/shinkan03.jpg" target="_blank">ビラ５</a><br>
+<a href="./image/annai.jpg" target="_blank">ビラ６</a><br>
+</p>
+
+	</td>
+	</tr>
+	</table>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</body>
+
+</html>

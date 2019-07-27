@@ -1,0 +1,318 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+<title>東京大学オルガン同好会:Concert</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=1.8.3"></script>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Style-Type" content="utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+</head>
+
+<body>
+
+<table class="bodytable">
+<tr>
+<td class="bodytd">
+
+<table class="maintable">
+<tr>
+<td colspan="2">
+	<a href="./"><img src="./image/logo1.gif" width="774" height="57" border="0" alt="東京大学オルガン同好会" /></a>
+</td>
+</tr>
+<tr>
+<td class="listtd">
+	<table class="listtable">
+	<tr>
+	<td class="tmenu"><a href="./" style="color:white" class="amenu">Top</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./about.html" style="color:white" class="amenu">About Us</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="http://bbs.83net.jp/?strangers" style="color:white" class="amenu">掲示板兼活動予定</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./concert.html" style="color:white" class="amenu">Concert</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./gallery.html" style="color:white" class="amenu">Gallery</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./access.html" style="color:white" class="amenu">Access</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./link.html" style="color:white" class="amenu">Link</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./contact.html" style="color:white" class="amenu">Contact Us</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="./siyou.html" style="color:white;font-size:10pt" class="amenu">900番教室のオルガンの仕様</a></td>
+	</tr>
+	<tr>
+	<td class="tmenu"><a href="http://twitter.com/organ900/" style="color:#80FF00" class="amenu" target="_blank">Twitter</a></td>
+	</tr>
+	</table>
+</td>
+<td class="maintd">
+	<table style="margin-top:5px;color:white">
+	<tr>
+	<td>
+	<p><b style="font-size:12pt">■Concert</b><br></p>
+
+	<p style="font-size:10pt;line-height:16px;padding:14px;border:1px dashed #FFFFFF">演奏会の歴史をプログラム、写真、録音を使ってご紹介します。</p>
+
+	<p style="font-size:10pt">
+	<b><a href="./pdf/new.pdf">□新メンバー募集中!!(pdf形式)</a></b>
+	</p>
+	
+	<div id="wrapper" style="border:none;overflow:auto;height:400px;padding:10px;" class="scroll-pane">
+		<div id="main">
+			<dl id="acMenu">
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第7回駒場祭オルガン演奏会</b><br />
+					2014年11月24日に行われたオルガン演奏会の様子です。<br />
+					<b><a href="./pdf/koma7.pdf">⇒プログラム</a></b><br /><br />
+
+					<span id="5I1vlWUuBo4">♪ゴシック組曲より第４楽章</span><br>
+					<span id="Ot0aDnKgwDs">♪『トッカータ集』第２巻よりトッカータ第５番</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第10回オルガン演奏会</b><br />
+					2014年6月30日に行われたオルガン演奏会の様子です。<br />
+					<span id="sgYX4XvUo-k">♪ソナタ　変ホ長調　K.370</span><br>
+					<span id="N_K49gzkMiw">♪Bull's Good Night</span><br>
+					<span id="bsgu_h7gGKg">♪グレゴリオ聖歌のテーマにおける８つの短い前奏曲 より Ave Verum Corpus</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第６回駒場祭オルガン演奏会</b><br />
+					2013年11月23日に行われたオルガン演奏会の様子です。<br />
+					<b><a href="./pdf/koma6.pdf">⇒プログラム</a></b><br /><br />
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第９回オルガン演奏会</b><br><br>
+					
+					<a href="./image/organ-9-poster.png"><img src="./image/organ-9-poster.png" width="200" /></a><br><br>
+					
+					2013年8月4日に行われたオルガン演奏会の様子です。<br>
+					<b><a href="./pdf/9th.pdf">⇒プログラム</a></b><br><br>
+					
+					<span id="5I1vlWUuBo4">♪トッカータ ニ短調 BWV913</span><br>
+					<span id="zFDq0yH9g-0">♪彼女は僕の苦しみを</span><br>
+					<span id="2wi8LbTV2PA">♪コンポステラ組曲 より コラール</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第５回駒場祭オルガン演奏会</b><br><br>
+					
+					<a href="./image/koma5.jpg"><img src="./image/koma5.jpg" width="200" /></a><br><br>
+					
+					2012年11月25日に行われたオルガン演奏会の様子です。<br>
+					<b><a href="./pdf/koma5.pdf">⇒プログラム</a></b><br><br>
+					
+					<span id="j6K6Zw2pHnQ">♪2つのヴァイオリンのための二重協奏曲 より 第1楽章</span><br>
+					<span id="rqE1R7TuIi4">♪ネヴェル夫人の曲集 より 第36番「気まぐれ」</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第８回オルガン演奏会</b><br><br>
+					
+					2012年7月8日に行われたオルガン演奏会の様子です。<br>
+					<b><a href="./pdf/8th.pdf">⇒プログラム</a></b><br><br>
+					
+					<span id="AZlydNoVQVY">♪前奏曲 ト短調</span><br>
+					<span id="DOBYm65TuHI">♪ロバーツブリッジ写本 より エスタンピ</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第７回オルガン演奏会</b><br><br>
+					
+					2012年4月19日に行われたオルガン演奏会の様子です。<br>
+					演奏者が駒場時代に演奏した楽曲を中心に演奏しました。<br>
+					<b><a href="./pdf/7th.pdf">⇒プログラム</a></b><br><br>
+					
+					<span id="TTli1V5evfE">♪半音階的幻想曲</span><br>
+					<span id="h1VdQYXSKzQ">♪スーパーマリオブラザーズのテーマ(1-1)</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□女子高校生のための東京大学説明会（2011）　歓迎演奏会</b><br><br>
+					
+					2011年12月24日に開催された<b><a href="http://kyodo-sankaku.u-tokyo.ac.jp/activities/shingakusokushin/Guidance2011.html">女子高校生のための東京大学説明会</a></b>のオープニング演目として行われたオルガン演奏会の様子です。<br>
+					<b><a href="./pdf/20111224.pdf">⇒プログラム</a></b><br><br>
+					
+					<span id="NJtzFklur0M">♪きらきら星変奏曲</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第６回オルガン演奏会</b><br><br>
+					
+					2011年12月3日に駒場キャンパスでオルガン演奏会を開催しました。<br>
+					中世から現代まで、多彩な楽曲を演奏しました。<br>
+					<b><a href="./pdf/6th.pdf">⇒プログラム</a></b><br><br>
+					
+					<span id="zvRZOTYJjLo">♪「ああ、言っておくれ」</span><br>
+					<span id="LOkuXtx8q6o">♪亡き王女のためのパヴァーヌ</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第１回五月祭オルガン演奏会</b><br><br>
+					
+					2011年5月29日に本郷キャンパスで行われた五月祭と同日に駒場キャンパスでオルガン演奏会を開催しました。<br>
+					「チャレンジ」をテーマに、上級生たちによる意欲的な選曲の演奏が行われました。<br>
+					<b><a href="./pdf/may1.pdf">⇒プログラム</a></b><br><br>
+					
+					<span id="5kHoM8JUt8E">♪「ジュ・トゥ・ヴ」</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□女子高校生のための東京大学説明会（2010）　オルガン演奏会</b><br><br>
+					
+					2010年12月19日に開催された<b><a href="http://kyodo-sankaku.u-tokyo.ac.jp/activities/shingakusokushin/Guidance2010.html">女子高校生のための東京大学説明会</a></b>のオープニング演目として行われたオルガン演奏会の様子です。<br>
+オルガン同好会としては異例の大観衆の見守る中、各参加者が得意曲を演奏致しました。<br>
+<b><a href="./image/20101219.gif">⇒プログラム</a></b><br><br>
+					
+					<span id="L7f1JO44280">♪交響詩「フィンランディア」</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第５回オルガン演奏会</b><br><br>
+					
+					2010年12月11日に行われた第５回オルガン演奏会の様子です。<br />
+					バッハはもとより、スウェーリンク、パッヘルベル、シベリウス、ヨン、更には同好会メンバーによるオリジナル作品まで、様々な曲が演奏されました。<br />
+					<b><a href="./pdf/5th.pdf">⇒プログラム</a></b><br><br>
+					
+					<span id="SI_IjvDxcO0">♪シチリアのクリスマス</span><br>
+					<span id="Q1F68eV2Efo">♪3つのヴァイオリンと通奏低音のためのカノンとジーグ ニ長調 より カノン</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第４回駒場祭オルガン演奏会</b><br><br>
+					
+					2010年11月22日に行われた駒場祭でオルガン演奏会を開催しました。<br>
+					１年生のフレッシュな演奏やベテランによる成熟した演奏を会場一杯の来場者の方々に楽しんで頂きました。<br>
+					<b><a href="./pdf/koma4.pdf">⇒プログラム</a></b><br>
+					<a href="./image/koma4.jpg"><b>⇒写真</b></a><br><br>
+					
+					<span id="hC_F53fcAq4">♪管弦楽組曲第一番BWV1066より序曲</span>　<a href="./pdf/bwv1066.pdf"><b>楽譜はこちら</b></a><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第３回駒場祭オルガン演奏会</b><br><br>
+					
+					2009年11月23日に行われた駒場祭でオルガン演奏会を開催しました。<br />
+					16世紀から現代まで幅広いレパートリーが披露されました。<br />
+					<b><a href="./pdf/koma3.pdf">⇒プログラム</a></b><br /><br />
+					
+					<span id="uGjzboBAwic">♪「私のベートーヴェン」</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第４回オルガン演奏会</b><br><br>
+					
+					2009年6月23日に行われた第４回演奏会のプログラムです。<br />
+					定番のバロックに加え、近現代の曲も強化しております。<br />
+					<b><a href="./pdf/4th.pdf">⇒プログラム</a></b><br /><br />
+					
+					<span id="46JqMw-4qUM">♪「いつか王子様が」</span><br>
+					<span id="IaS5BluhR2A">♪歌劇「セルセ」よりラルゴ</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第２回駒場祭オルガン演奏会</b><br><br>
+					
+					2008年11月22日に行われた駒場祭でオルガン演奏会を開催しました。<br />
+					バッハだけでなくスウェーリンク、ラインベルガーなど幅広い作品を披露しました。<br />
+					<b><a href="./pdf/koma2.pdf">⇒プログラム</a></b><br /><br />
+					
+					<span id="9eSSg8tyddE">♪「My Favorite Things」</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第１回駒場祭オルガン演奏会</b><br><br>
+					
+					2007年11月23日に行われた駒場祭でオルガン演奏会を開催しました。<br />
+					バッハの作品で埋め尽くされています。<br />
+					<b><a href="./pdf/koma.pdf">⇒プログラム</a></b><br />
+					<b><a href="./pdf/koma1_2.pdf">⇒プログラム表紙</a></b><br />
+					<b><a href="./photo_koma.html">⇒写真</b></a><br /></b></a><br /><br />
+					
+					<span id="n6eHPv_3OB0">♪「Star Wars Main Theme」</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第３回オルガン演奏会</b><br><br>
+					
+					2006年10月18日に行われた第３回演奏会の模様です。<br />
+					スウェーリンクからメンデルスゾーンまで、他ではなかなか聴けない名曲が演奏されました。<br />
+					<b><a href="./pdf/3rd.pdf">⇒プログラム</a></b><br /><br />
+					
+					<span id="iTyigliCKoY">♪カエルの主題に基づくワルツと葬送曲～そしてヨミガエル～</span><br>
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第２回オルガン演奏会</b><br><br>
+					
+					2005年11月20日に行われた第２回演奏会の模様です。<br />
+					なぜかマリオをフィーチャーし、ポップな雰囲気です。フルートやヴァイオリンも登場しています。<br />
+					プログラムと写真でご紹介します。<br />
+					<b><a href="./pdf/2nd.pdf">⇒プログラム</a></b><br />
+					<b><a href="./photo_2nd.html">⇒写真</a></b><br />
+				</dt>
+				<dd></dd>
+				<dt>
+					<br><br>
+					<b style="font-size:12pt">□第１回オルガン演奏会</b><br><br>
+					
+					2005年6月22日に行われた、同好会初の演奏会です。<br />
+					定番のバッハだけでなくドビュッシーやムソルグスキーなど近代の作品も取り上げています。<br />
+					<b><a href="./pdf/1st.pdf">⇒プログラム</a></b><br />
+				</dt>
+				<dd></dd>
+			</dl>
+		</div><!-- / #main -->
+	</div><!-- / #wrapper -->
+	<script>
+	$(function(){
+		$("#acMenu span").on("click", function() {
+			$(this).parent().next().slideToggle();
+			$(this).parent().next().html("<iframe width=\"420\" height=\"315\" src=\"\" frameborder=\"0\" allowfullscreen></iframe><br><br>");
+			$(this).parent().next().find("iframe").attr("src","http://www.youtube.com/embed/" + $(this).attr('id'));
+		});
+	});
+	</script>
+	</td>
+	</tr>
+	</table>
+</td>
+</tr>
+</table>
+
+</body>
+
+</html>

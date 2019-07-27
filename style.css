@@ -1,0 +1,16 @@
+a:link{color:#33ffff;line-height:16px;text-decoration:none}
+a:visited{color:#33ffff;line-height:16px;text-decoration:none}
+a:hover{color:#33ffff;line-height:16px;text-decoration:none}
+.amenu{font-size:14pt;font-weight:bold;margin-left:6px}
+.tmenu{border-bottom:1px solid #ffffff;padding-top:1px;padding-bottom:3px;}
+
+p{color:white}
+.ls{font-size:10pt;font-weight:bold;border-top:1px solid #ffffff;border-right: 1px solid #ffffff;padding: 3px 3px 3px 7px;}
+.lc{font-size:10pt;margin:15px;background-color:white;color:#3592b9;padding:10px}
+
+.bodytable{margin:-8px;width:954px}
+.bodytd{background-color:#3592b9}
+.maintable{margin:-4px}
+.listtd{width:275px;height:710pt;vertical-align:top}
+.listtable{width:190px;margin-left:-3px;margin-top:-4px}
+.maintd{vertical-align:top;width:580px}
